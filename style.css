@@ -1,0 +1,215 @@
+* {
+
+    padding: 0%;
+    margin: 0%;
+
+}
+
+
+
+
+
+.section-one__name {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-top: 5px;
+    padding: 5px;
+
+
+}
+
+.section-one {
+
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+
+
+}
+
+
+.section-one__role {
+
+
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+.section-one__contact {
+    background-color: rgb(220, 23, 23);
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin: 10px;
+
+
+
+}
+
+
+
+.section-two__name {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    margin: 15px;
+    padding: 10px;
+
+
+
+
+
+}
+
+.section-two__role {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.section-three__name {
+
+    font-size: 35;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+
+
+
+}
+
+.section-three__desc {
+
+
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 20px;
+
+  
+
+}
+
+
+
+
+.section-four__title {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      padding: 20px;
+
+
+
+}
+      .section-four__desc.one{
+
+                     
+
+        font-size: 30pxpx;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding: 60px;
+        
+
+    
+    
+
+      }
+
+      
+
+            .section-four__desc li{
+
+                     font-size: 25px;
+         
+ 
+
+            }
+
+      
+
+
+
+
+      .section-four{
+
+                       background-color: rgb(161, 145, 21); color: aliceblue;
+                       padding: 20px;
+    
+                       height: 200px;
+                       border-radius: 10px;
+                       display: inline-block;
+                       vertical-align: top;
+                       vertical-align: bottom;
+
+                         
+                  
+
+ 
+
+      } .section-three{
+            
+    
+          background-color: rgb(203, 34, 34); color: rgb(227, 223, 223);
+          
+          padding: 10px;
+           height: 200px;
+           border-radius: 10px;
+           display: inline-block;
+           vertical-align: top;
+           vertical-align: bottom;
+           
+
+}
+
+
+
+
+    .section-four__desc li,.section-three__desc li{
+        list-style: none;
+       
+
+    }
+        
+
+
+.section-five__role{
+ 
+                 font-size: 20px;
+           font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+            font-weight: 100px;
+}
+    
+.section-five__name{
+
+               font-size: 20px;
+               font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.section-five{
+ 
+            background-color: black;
+             color: white;
+             padding: 20px;  
+             border-radius: 10px;
+             vertical-align: 10px; 
+               margin-top: 10px;
+}
+
+
+.section-five__role a{
+
+     color: aqua;
+
+
+}
+    .section-one__img{
+                      
+         width: 150px;
+         height: 200px;
+          padding-right: 1300px;
+          margin-top: 0%;
+          
+
+    }
